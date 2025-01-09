@@ -1,0 +1,25 @@
+p{
+    color: orange;
+}
+h1{
+    color: yellow;
+    
+}
+
+.cfi{
+    color: aqua;
+}
+
+
+#mo{
+    color: violet;
+    font-size:large;
+}
+
+
+#class{
+height: 100px;
+width: 100px;
+background-color: aqua;
+border: 2px solid;
+}
